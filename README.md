@@ -1,13 +1,15 @@
 # gulp.js Presentation
 
-## Automate and enhance your workflow
+#### Automate and enhance your workflow
 
 This is a small presentation about [gulp.js](http://gulpjs.com). 
 
+Official Links:
+
 - [Plugins](http://gulpjs.com/plugins/)
 - [Github Repository](https://github.com/gulpjs/gulp)
-- [Official Docs](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
-
+- [Docs - Getting Started](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
+- [Docs - API](https://github.com/gulpjs/gulp/blob/master/docs/API.md)
 
 #### About this presentation
 
@@ -16,8 +18,10 @@ This is a small presentation about [gulp.js](http://gulpjs.com).
 ... not yet finalized ...
 
 Sincerely,
+
 Sebastian Hildebrandt
-http://www.plus-innovations.com
+
+[http://www.plus-innovations.com](http://www.plus-innovations.com)
 
 #### Credits
 
@@ -27,7 +31,7 @@ Written by Sebastian Hildebrandt [sebhildebrandt](https://github.com/sebhildebra
 
 >The MIT License (MIT)
 >
->Copyright (c) 2015 +innovations.
+>Copyright &copy; 2015 +innovations.
 >
 >Permission is hereby granted, free of charge, to any person obtaining a copy
 >of this software and associated documentation files (the "Software"), to deal
