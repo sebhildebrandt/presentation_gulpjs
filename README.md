@@ -1,2 +1,4 @@
-# presentation_gulpjs
-Presentation Gulp.js
+# Presentation Gulp.js
+
+... work in progress ...
+... not yet finalized ...
