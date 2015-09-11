@@ -13,25 +13,51 @@ Official Links:
 
 #### About this presentation
 
-... work in progress ...
+My personal goal for this presentation was not just to scratch the very basics of gulp. I also wanted to give some more advanced best-practice insight.
 
-... not yet finalized ...
+This presentation covers:
 
-Sincerely,
+1. What is gulp
+2. Why gulp
+3. The gulp API
+4. gulp - "Hello World"
+5. Creating a gulp boilerplate 
+6. summary
 
-Sebastian Hildebrandt
+You can view the presentation [here](https://www.plus-innovations.com/presentations/gulpjs)
 
-[http://www.plus-innovations.com](http://www.plus-innovations.com)
+#### Boilerplate (03_gulp_boilerplate)
+
+##### Install dependencies:
+
+All dev-dependencies are already defined in the package.json file. To install all dependencies, please do the following:
+
+```bash
+$ cd 03_gulp_boilerplate
+$ npm install
+```
+
+##### Remarks: 
+
+the template I used as a front-end sample, is a modified LUCID template. You can find the original template here:
+
+[http://shapebootstrap.net/item/lucid-html5-and-bootstrap-responsive-template/](http://shapebootstrap.net/item/lucid-html5-and-bootstrap-responsive-template/)
+
 
 #### Credits
 
 Written by Sebastian Hildebrandt [sebhildebrandt](https://github.com/sebhildebrandt)
 
+Sincerely,
+
+Sebastian Hildebrandt, [+innovations](http://www.plus-innovations.com)
+
+
 #### License
 
 >The MIT License (MIT)
 >
->Copyright &copy; 2015 +innovations.
+>Copyright &copy; 2015 Sebastian Hildebrandt, [+innovations](http://www.plus-innovations.com).
 >
 >Permission is hereby granted, free of charge, to any person obtaining a copy
 >of this software and associated documentation files (the "Software"), to deal

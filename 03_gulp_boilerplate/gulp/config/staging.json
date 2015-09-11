@@ -1,0 +1,5 @@
+{
+	"minify" : false, 
+	"strict" : false, 
+	"breakOnError" : true
+}
