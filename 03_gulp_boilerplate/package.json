@@ -7,7 +7,7 @@
   "devDependencies": {
     "browser-sync": "^2.9.3",
     "browserify": "^11.1.0",
-    "event-stream": "^3.3.1",
+    "event-stream": "3.3.4",
     "express": "^4.13.3",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.0.1",
